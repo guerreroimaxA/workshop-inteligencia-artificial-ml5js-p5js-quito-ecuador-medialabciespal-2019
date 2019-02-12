@@ -102,6 +102,28 @@ Para este workshop usaremos dos bibliotecas de código abierto, libres, y gratui
 
 * [p5.js](https://p5js.org/es/): para crear páginas web con elementos audiovisuales interactivos, controlados por nuestros algoritmos hechos con ml5.js.
 
+Usaremos servidores locales, para lo que se recomienda el uso de [Google Chrome](https://www.google.com/chrome/) y de la aplicación [Web Server for Chrome](https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb?hl=en).
+
+Otra alternativa es correr un servidor local con Python 2 o 3.
+
+Para verificar si tienes Python instalado, abre la aplicación terminal y ejecuta el siguiente comando.
+
+```bash
+python
+```
+
+Si tienes Python 2 instalado, puedes correr un servidor local con:
+
+```bash
+python -m SimpleHTTPServer
+```
+
+Si tienes Python 3 instalado, puedes correr un servidor local con:
+
+```bash
+python -m http.server
+```
+
 ## Historia de ml5.js
 
 [ml5.js](https://ml5js.org/) es una biblioteca de JavaScript, desarrollada por la comunidad de [NYU ITP](https://itp.nyu.edu/), que incluye a profesores, residentes y estudiantes, incluyendo a [Daniel Shiffman](https://shiffman.net/), [Yining Shi](https://1023.io/), [Cristóbal Valenzuela](https://cvalenzuelab.com/), [Hannah Davis](http://www.hannahishere.com/), y más. Esta biblioteca fue lanzada el año 2018.
