@@ -16,6 +16,8 @@ Esta versión fue enseñada en [MediaLabCiespal](https://www.facebook.com/medial
 
 Fue una actividad gratuita con un pago opcional para obtener certificado.
 
+Link a [evento en Facebook](https://www.facebook.com/events/322115415088536/)
+
 ## Flyer
 
 ![alt text](media/flyer-inteligencia-artificial-ml5js-p5js-medialabciespal-quito-ecuador.jpg "Flyer workshop ml5.js y p5.js, MediaLabCiespa, Quito, Ecuador")
@@ -30,7 +32,7 @@ Fue una actividad gratuita con un pago opcional para obtener certificado.
 * [Introducción a inteligencia artificial](#)
 * [Historia de ml5.js](#historia-de-ml5js)
 * [Historia de p5.js y Processing](#historia-de-p5js-y-processing)
-* [Integración ml5.js con p5.js](#)
+* [Integración ml5.js con p5.js](#integración-ml5js-con-p5js)
 
 ## Sobre el instructor
 
