@@ -18,11 +18,7 @@ Fue una actividad gratuita con un pago opcional para obtener certificado.
 
 ## Flyer
 
-<!-- ![alt text](media/flyer-campamento-verano-cyberpunk-2019.png "Flyer Campamento De Verano Cyberpunk 2019")
-
-![alt text](media/programa-campamento-verano-cyberpunk-2019.png "Programa Campamento De Verano Cyberpunk 2019")
-
-![alt text](media/flyer-workshop-inteligencia-ml5js-valdivia-cyberpunk-2019.png "Flyer Workshop ml5.js Campamento De Verano Cyberpunk 2019") -->
+![alt text](media/flyer-inteligencia-artificial-ml5js-p5js-medialabciespal-quito-ecuador.jpg "Flyer workshop ml5.js y p5.js, MediaLabCiespa, Quito, Ecuador")
 
 
 ## Temario
@@ -177,7 +173,8 @@ Este ejemplo está basado en PoseNet y te permite dibujar tus keypoints.
 
 Para seguir explorando y aprendiendo, se recomienda consultar estas fuentes:
 
-* Machine Learning for Artists, libro escrito por Gene Kogan.
-* ml5.js
-* p5.js
+* [Machine Learning for Artists](http://ml4a.github.io/), libro escrito por [Gene Kogan](http://genekogan.com/).
+* [ml5.js](https://ml5js.org/)
+* [p5.js](http://p5js.org/)
+* [Introducción a p5.js](https://processingfoundation.press/)
 * [Wekinator](http://www.wekinator.org/)
