@@ -1,6 +1,6 @@
-# workshop-inteligencia-artificial-ml5js-p5js-quito-ecuador-medialabuio-2019
+# workshop-inteligencia-artificial-ml5js-p5js-quito-ecuador-medialabciespal-2019
 
-Workshop inteligencia artificial con ml5.js, 12-13 febrero 2019, 6pm-8pm, MediaLabUIO, Quito, Ecuador.
+Workshop inteligencia artificial con ml5.js, 12-13 febrero 2019, 6pm-8pm, MediaLabCiespal, Quito, Ecuador.
 
 Workshop para estudiantes sin conocimientos previos de programación. Los estudiantes aprenderán fundamentos aprendizaje de máquinas y programación de aplicaciones web interactivas.
 
@@ -12,7 +12,7 @@ Se les dará acceso a material educativo gratuito para seguir aprendiendo despu�
 
 Este workshop de Introducción a la programación creativa e inteligencia artificial con ml5.js y p5.js fue diseñado y es impartido por [Aarón Montoya-Moraga](http://montoyamoraga.io/). Este workshop incluye trabajo y material que ya ha sido usado por Aarón en workshops similares.
 
-Esta versión fue enseñada en MediaLabUIO,Quito, Ecuador, los días martes 12 y miércoles 13 febrero 2019, gracias a una invitación hecha por [Gabriel Andrade](http://www.gandradep.com/).
+Esta versión fue enseñada en [MediaLabCiespal](https://www.facebook.com/medialabciespal/),Quito, Ecuador, los días martes 12 y miércoles 13 febrero 2019, gracias a una invitación hecha por [Gabriel Andrade](http://www.gandradep.com/).
 
 Fue una actividad gratuita con un pago opcional para obtener certificado.
 
